@@ -26,8 +26,10 @@ Sigue el [tutorial](https://docs.python.org/es/3/using/windows.html) de instalac
 ## Contenido 📚
 
 1. **Fundamentos de Python: 🐍**
-    - Tipos de datos primitivos (numéricos, cadenas, booleanos) y sus operaciones.
-    - Variables, expresiones, y operadores básicos.
+    - [Tipos de datos primitivos (numéricos, cadenas, booleanos)](./temario/01-fundamentos/tipos-de-datos-y-operaciones.md#tipos-de-datos-primitivos)
+    - [Operadores básicos](./temario/01-fundamentos/tipos-de-datos-y-operaciones.md#operadores-básicos)
+    - [Variables](./temario/01-fundamentos/tipos-de-datos-y-operaciones.md#variables-en-python)
+    - [Expresiones](./temario/01-fundamentos/tipos-de-datos-y-operaciones.md#expresiones-en-python)
     - Estructuras de control: if, for, while.
     - Manejo de errores y excepciones.
 
